@@ -1,0 +1,21 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipy application",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "paccel build index.html"
+  },
+  "author": "Rima",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.7.0",
+    "parcel": "^2.7.0",
+    "sass": "^1.54.5"
+  },
+  "dependencies": {
+    "core-js": "^3.24.1",
+    "fracty": "^1.0.11",
+    "regenerator-runtime": "^0.13.9"
+  }
+}
