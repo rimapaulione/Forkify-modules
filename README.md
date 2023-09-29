@@ -20,16 +20,14 @@
 
 In the project directory, you can run:
 
-### `add KEY`
+### `GENERATE API KEY`
 
-Go to [Forkify API](https://forkify-api.herokuapp.com/v2) and generate your API key. Add this key in the file config.js const KEY = 'add your key'.
+Go to [Forkify API](https://forkify-api.herokuapp.com/v2) and generate your API key. Add this key in the file config.js.
 
 ### `npm start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:1234](http://localhost:1234/) to view it in the browser.
-
-You will see any lint errors in the console.
 
 ### `npm run build`
 
